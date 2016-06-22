@@ -1,5 +1,7 @@
-# xmonad-config
-xmonad-config is the [xmonad](http://xmonad.org/) configuration used by Vic Fryzel.
+# xmonad-config : AZERTY config
+
+xmonad-config is the [xmonad](http://xmonad.org/) configuration used by Vic Fryzel,
+modified by maxkub.
 
 
 ## Introduction
